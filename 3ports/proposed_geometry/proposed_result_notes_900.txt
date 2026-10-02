@@ -1,0 +1,8 @@
+The final parameterization results in this directory were generated
+using 900 training samples.
+
+Training data:
+50 initial samples + 850 additional samples = 900 samples.
+
+The 50 fixed test samples are separate and are not included in the
+900 training samples.
